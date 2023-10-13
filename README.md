@@ -1,13 +1,53 @@
-# Hello world !
-## please read this document
+# Full-Stack Developer Test 💻
+#### Submitted By Nitipatr-Dev
+## Get Project Locally
 
-1. For the backend developer [Clik here!!](backend.md)
-2. For the frontend developer [Clik here!!](frontend.md)
-3. For the full stack developer read both.
+Clone the project
 
-## Expectation
-- Code Correcly
-- Understanding
-- Researching
-- Clean Code
-- Mindset
+```bash
+  git clone https://github.com/Nitipatr-dev/developer-examination.git
+```
+
+## Run Server
+
+Open IDE Terminal and get in directory
+
+```bash
+  cd api
+```
+
+Install dependencies
+
+```bash
+  npm i
+```
+
+Start the server
+
+```bash
+  npm start
+```
+
+
+## Running Test
+
+Use VSCode Extension such as Live Sever or Explorer Directory and open
+
+```bash
+  index.html
+```
+
+
+## Features
+
+- Create Data to The Table
+- Read Data at All Data on The Table or View More Button To See More Detail at Any Single Data
+- Update or Edit The Data
+
+
+## Tech Stack
+
+**Client:** `Bootstrap`, `SweetAlert`, `DataTable`
+
+**Server:** `Node`, `Express`,`Mongodb`, `CORS`
+
